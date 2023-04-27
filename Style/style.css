@@ -1,0 +1,114 @@
+.bgimg{
+    background-image:url('background.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed; 
+    width: 100%;
+    height:650px;
+    font-weight: bold;
+}
+.headerset{
+    padding-top: 250px;
+    box-sizing: border-box;
+}
+.headerset h2{
+    font-size: 25px;
+    font-weight: bold;
+}
+.headerset h1{
+    font-size: 38px;
+    font-weight: bold;
+
+}
+.headerset button{
+    font-weight: bold;
+
+}
+
+/*
+---------------Our Services---------------
+*/
+.ourservices{
+    padding:100px 0px 60px;
+}
+.ourservices h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.ourservices p{
+    font-weight: bold;
+}
+
+.rowsetting{
+    margin:80px 0px !important;
+}
+.imgsetting{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.fa-shopping-cart{
+    margin-top:26px;
+}
+.fa-desktop{
+    margin-top: 26px;
+}
+
+.fa-lock{
+    margin-top: 25px;
+}
+
+.rowsetting h2{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.rowsetting p{
+padding: 20px;
+color: #6c757d!important;
+}
+/*
+/////PORTFOLIO/////
+*/
+.portfolio{
+    width:100%;
+    padding:  100px 0px 50px;
+    
+}
+.portfolio h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.portfolio p{
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card{
+    margin-top: 45px;
+}
+/*
+---------ourteam---------*/
+.ourteam{
+    padding:100px 0px 60px;
+    width: 100%;
+}
+
+.ourteam h1{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+.teamsetting{
+    margin-top: 7px !important;
+}
+
+/*
+////////footer/////
+*/
+
+.footer{
+    width:100;
+}
+.footer h6{
+    line-height: 50px;
+}
